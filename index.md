@@ -20,5 +20,3 @@
 - DES/ISAS/DM2S/STMF/LGLS
 - Bât 451, point courrier 43
 - 91191 Gif-sur-Yvette Cedex, France
-
-<img src="https://github.com/eliesaikali/eliesaikali.github.io/blob/master/_perso/pics/elie2.png" width="800" />
