@@ -1,3 +1,8 @@
+---
+title:  "Publications"
+categories: media
+---
+
 ## **Referred Journal Publications**
 
 - **E Saikali**, G Bois, MG Rodio, U Bieder A Burlot and M Bertrand. "Validation of the hydrodynamics in a turbulent un-baffled vortex reactor at two different stirring Reynolds numbers". Nuclear Engineering and Design, 2021, https://doi.org/10.1016/j.nucengdes.2021.111450
