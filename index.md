@@ -1,3 +1,8 @@
+---
+title:  "Home"
+categories: media
+---
+
 ## **About Me**
 - Research scientist at **CEA** - Commissariat à l'énergie atomique et aux énergies alternatives
 - Lecturer at **LeCNAM** - Conservatoire National des Arts et Métiers
