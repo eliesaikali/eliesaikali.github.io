@@ -5,6 +5,8 @@ categories: media
 
 ## **Referred Journal Publications**
 
+- G Bilotta, V Zago, V Centorrino, RA Dalrymple, A Hérault, C Del Negro, **E Saikali**. "A numerically robust, parallel-friendly variant of BiCGSTAB for the semi-implicit integration of the viscous term in Smoothed Particle Hydrodynamics". Journal of Computational Physics, 2022, https://doi.org/10.1016/j.jcp.2022.111413
+
 - **E Saikali**, G Bois, MG Rodio, U Bieder A Burlot and M Bertrand. "Validation of the hydrodynamics in a turbulent un-baffled vortex reactor at two different stirring Reynolds numbers". Nuclear Engineering and Design, 2021, https://doi.org/10.1016/j.nucengdes.2021.111450
 
 - **E Saikali**, G Bois, MG Rodio, U Bieder, M Bertrand, N Leterrier and Y Dolias. "Influence of the hydrodynamics and the reaction-rate formulation in modeling infinitely fast irreversible reactions in a turbulent un-baffled chemical reactor". Chemical Engineering Communications, 2020,  https://doi.org/10.1080/00986445.2020.1864627
