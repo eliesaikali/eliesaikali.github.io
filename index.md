@@ -11,7 +11,7 @@ categories: media
 - Google Sites: [elie.saikali](https://sites.google.com/view/eliesaikali/home)
 
 ## **CFD code developer member**
-- The open source [**TRUST**](https://github.com/cea-trust-platform/trust-code) platform (CEA DES/ISAS/DM2S/STMF/LGLS)
+- The open source [**TRUST**](https://github.com/cea-trust-platform/trust-code) platform (CEA DES/ISAS/DM2S/SGLS/LCAN)
 - The open source [**GPUSPH**](https://www.gpusph.org/) computational engine (INGV Catania, leCNAM)
 
 ## **Research interests**
@@ -22,6 +22,6 @@ categories: media
 
 ## **Professional address**
 - CEA, Univeristé Paris-Saclay
-- DES/ISAS/DM2S/STMF/LGLS
+- DES/ISAS/DM2S/SGLS/LCAN
 - Bât 451, point courrier 43
 - 91191 Gif-sur-Yvette Cedex, France
